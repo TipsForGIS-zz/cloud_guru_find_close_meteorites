@@ -12,4 +12,4 @@ pipenv install
 
 # to run the program, type:
 
-pipenv run python find_meteors.py
+pipenv run python scripts/find_meteors.py
